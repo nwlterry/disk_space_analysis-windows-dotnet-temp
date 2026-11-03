@@ -10,5 +10,5 @@ The folder also has the source zip. The executable is a self-contained Windows x
 
 ```powershell
 .\disk-space-analysis-1.0.0-beta.1.exe scan --path D:\ --out C:\disk-space-analysis-reports
-.\disk-space-analysis-1.0.0-beta.1.exe compare --before C:\disk-space-analysis-reports\older-folders.csv --after C:\disk-space-analysis-reports\latest-folders.csv --out C:\disk-space-analysis-reports\compare
+.\disk-space-analysis-1.0.0-beta.1.exe compare --before C:\disk-space-analysis-reports\disk-space-analysis-20261006-020000-folders.csv --after C:\disk-space-analysis-reports\disk-space-analysis-20261103-090000-folders.csv --out C:\disk-space-analysis-reports\compare
 ```

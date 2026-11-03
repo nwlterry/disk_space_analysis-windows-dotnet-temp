@@ -1,6 +1,6 @@
 # disk-space-analysis .NET release copy
 
-Current portable build from [nwlterry/disk_space_analysis-windows-dotnet](https://github.com/nwlterry/disk_space_analysis-windows-dotnet/releases/tag/v1.0.0-beta.1). The executable name includes the version.
+Current portable build from [nwlterry/disk_space_analysis-windows-dotnet](https://github.com/nwlterry/disk_space_analysis-windows-dotnet/releases/tag/v1.0.0-beta.2). The executable name includes the version.
 
 | Release | Executable |
 |---|---|
